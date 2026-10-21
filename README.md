@@ -1,1 +1,1 @@
-# KRN_MINER
+index.html
